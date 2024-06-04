@@ -1,5 +1,5 @@
 {
-  "files": ["main-1.ts"],
+  "files": ["main-1.ts", "main-2.ts"],
   "compilerOptions": {
     /* Visit https://aka.ms/tsconfig to read more about this file */
 
